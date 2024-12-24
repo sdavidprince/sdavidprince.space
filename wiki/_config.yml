@@ -30,7 +30,7 @@ logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics:
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
-git_branch: "master"
+git_branch: "main"
 # git_branch: gh-pages
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
